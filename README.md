@@ -1,5 +1,5 @@
-Hi there 👋
-I'm [Your Name], and welcome to my GitHub profile!
+**Hi there**👋
+I'm Celine Junker , and welcome to my GitHub profile!
 
 🔭 What I'm Working On:
 
@@ -14,7 +14,7 @@ I’m looking to collaborate on open-source projects, particularly those focused
 
 Feel free to ask me about cybersecurity, C++, or any tech-related queries. I love discussing technology and sharing knowledge.
 
-language and tools 
+**language and tools**
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
